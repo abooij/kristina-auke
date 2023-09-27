@@ -5,4 +5,12 @@
 layout: ka_main
 ---
 
-aoeu
+# Auke & Kristina
+## 24.8.2024
+## Villa Richter - Prague
+
+---
+Wecome! Our wedding website is still **under construction**. Our goal is to share imporant information about our wedding and hopefully answer questions that many of you might have so please come back in a few weeks. 
+
+### Location
+Our wedding will take place the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/). 
