@@ -9,7 +9,7 @@ Wecome! Our wedding website is still **under construction**. Our goal is to shar
 
 
 ### Venue 
-Our whole wedding day will take place the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
+Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
 <!---
 ### Program
