@@ -14,3 +14,12 @@ h1, h2, h3
 {
     font-family: Merienda;
 }
+a:link, a:visited
+{
+    color: #8b0000;
+    text-decoration: none;
+}
+a:hover, a:active
+{
+    color: #bb0000;
+}
