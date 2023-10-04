@@ -11,6 +11,12 @@ Wecome! Our wedding website is still **under construction**. Our goal is to shar
 ### Venue 
 Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
+### Accommodation
+There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easaly reachable from the metro A stop Malostranská which is 250m from the venue. 
+
+### Arrival 
+
+
 <!---
 ### Program
 tbd
