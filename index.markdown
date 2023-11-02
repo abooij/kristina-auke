@@ -26,10 +26,15 @@ There is unfortunately no accommodation at Villa Richter. We recommend looking f
 	- 15 minute by public transport (2 stops by metro A or 3 stops by trams 18, 20) or 35 minute walk
 	- Rooms from 100EUR/night
 	- In between Prague Airport and Villa Richter, not far from Prague Castle
+- [Sophie's Hostel](https://www.booking.com/hotel/cz/sophie-s-hostel.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYAQm4ARfIAQzYAQHoAQH4AQyIAgGoAgO4ArqKjaoGwAIB0gIkZmU5NGZmM2QtNmUwNS00ZGMwLTliNWQtZTU2NmE1Y2VlNmE42AIG4AIB&sid=a778640f3c61a5c8ed25e607ad14b3ca&atlas_src=hp_iw_title&checkin=2024-08-23&checkout=2024-08-25&dist=0&group_adults=2&group_children=0&no_rooms=1&room1=A%2CA&sb_price_type=total&srepoch=1698907698&srpvid=6f6c2fbac1dc0078&type=total&#map_closed)
+	- 25 minutes by tram 22 (or walk 45 minutes)
+	- A bed in a dormitory from 35 EUR, private rooms from 	115 EUR
+	- Very central, acquaintance of us stayed there and liked it a lot
+
 
 ### Travel tips
 
-
+kr
 ##### Fly
 Fly to [Václav Havel Airport Prague](https://www.europeansleeper.eu/).  Getting to the city requires taking a bus **and** a metro.
 
