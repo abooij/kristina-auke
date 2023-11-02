@@ -12,7 +12,7 @@ Wecome! Our wedding website is still **under construction**. Our goal is to shar
 Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
 ### Accommodation
-There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete recommendations (we don't have personal experience with any of these though):
+There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete suggestions (we don't have personal experience with any of these though):
 
 - [High Heaven Hotel](https://www.booking.com/hotel/cz/high-heaven.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCyIAQGYAQm4ARnIAQ_YAQHoAQH4AQyIAgGoAgO4AorWjqoGwAIB0gIkZmYwZTFjNTItMDNjZS00ZDhmLWI4NzUtMGEwN2NkM2RlYjIz2AIG4AIB&sid=b4f79fac4181a2cd529db72325a39ed4&all_sr_blocks=277486804_106823773_0_2_0;checkin=2024-08-23;checkout=2024-08-25;dest_id=2774868;dest_type=hotel;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=277486804_106823773_0_2_0;hpos=1;matching_block_id=277486804_106823773_0_2_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=277486804_106823773_0_2_0__22964;srepoch=1698933722;srpvid=308562aafd8e0259;type=total;ucfs=1&#hotelTmpl)
 	- 12 minute walk (or 1 stop by trams 2, 18 or by metro A)
