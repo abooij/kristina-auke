@@ -12,7 +12,7 @@ Wecome! Our wedding website is still **under construction**. Our goal is to shar
 Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
 ### Accommodation
-There is unfortunately no accommodation at Villa Richter. We are currently trying to get a group offer in [Hotel Hoffmeister](https://www.hoffmeister.cz/en) which is across the street. We expect around 130 EUR per night for a double room with breakfast. There is also a limited amount of parking places available. If you are interested in staying in Hotel Hoffmeister, please let us know! 
+There is unfortunately no accommodation at Villa Richter. **We are currently trying to get a group offer in [Hotel Hoffmeister](https://www.hoffmeister.cz/en) which is across the street.** We expect around 130 EUR per night for a double room with breakfast. There is also a limited amount of parking places available. If you are interested in staying in Hotel Hoffmeister, please let us know! 
 
 Otherwise, we recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete suggestions (we don't have personal experience with any of these though):
 
