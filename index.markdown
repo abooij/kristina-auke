@@ -55,9 +55,9 @@ Wear a helmet.
 ### Arrival
 Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams).
 
-There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website] (https://en.parkopedia.com/). Here are some concrete suggestions.
+There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
  
-#### Parking near Villa Richter
+##### Parking near Villa Richter
 - If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are. 
 - Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
 	- 10 minute walk to Villa
@@ -66,7 +66,7 @@ There is unfortunately no parking lot at Villa Richter. If you need to come by c
 	- 25 min walk, 3 stop by tram
 	- 40 CZK/hour, 400 CZK/24 hours
 
-#### Free/cheap parking in Prague
+##### Free/cheap parking in Prague
 There are various P+R options that are for free or rather cheap (~50 CZK/24 hours)
 - Coming via D11 (east): [P+R Cerny Most](https://en.parkopedia.com/parking/carpark/pr_%C4%8Dern%C3%BD_most_1/198/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Rajska Zahrada](https://en.parkopedia.com/parking/carpark/pr_rajsk%C3%A1_zahrada/198/praha/?country=cz&arriving=202405021430&leaving=202405021630)
 - Coming via D1 (south east): [P+R Opatov](https://en.parkopedia.com/parking/carpark/pr_opatov/149/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Chodov](https://en.parkopedia.com/parking/carpark/pr_chodov/14900/praha/?country=cz&arriving=202405021430&leaving=202405021630)
