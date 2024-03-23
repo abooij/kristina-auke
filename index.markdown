@@ -59,12 +59,12 @@ Wear a helmet.
 Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams).
 
 There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
- 
+
 ##### Parking near Villa Richter
-- If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are. 
+- If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are.
 - Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
 	- 10 minute walk to Villa
-	- 70 CZK/hour, 660 CZK/24 hours 
+	- 70 CZK/hour, 660 CZK/24 hours
 - Underground parking [Letna](https://en.parkopedia.com/parking/carpark/letn%C3%A1/170/praha/?country=cz&arriving=202311161430&leaving=202311161630)
 	- 25 min walk, 3 stop by tram
 	- 40 CZK/hour, 400 CZK/24 hours
@@ -82,8 +82,16 @@ There will be a room for naps and breastfeeding in the villa. More details to fo
 ### Program
 The program will likely last from early afternoon until late in the evening.
 
-### Gifts, dresscode, food options
-Details to follow.
+### Gifts
+There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
+
+### Dresscode
+Details to follow.  However, please do realize the following:
+- Prague, and also Villa Richter, are hilly places with small cobblestones.  So we advice to adjust your footwear accordingly.
+- August is normally a very warm month in Czech Republic.
+
+### Food options
+We will reach out by email to collect dietary restrictions and preferences.
 
 <!---
 ### Arrival
