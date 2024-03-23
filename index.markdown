@@ -5,7 +5,7 @@
 layout: ka_main
 ---
 
-Wecome! Our wedding website is still **under construction**. Our goal is to share imporant information about our wedding and hopefully answer questions that many of you might have so please come back in a few weeks.
+Wecome! Our wedding website is still under construction and was last updated on **{% last_modified_at %d %B %Y %}**. Our goal is to share imporant information about our wedding and hopefully answer questions that many of you might have so please come back in a few weeks.
 
 
 ### Venue
