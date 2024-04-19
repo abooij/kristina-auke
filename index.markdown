@@ -19,6 +19,8 @@ Our whole wedding day will take place in the heart of Prague in [Villa Richter](
 - 18:00 Cake cutting and Sweet bar
 - 18:30 Live music
 - 21:30 Evening buffet and afterparty
+  
+If you plan to organize something at our wedding, please reach out to [Katerina Fields](mailto:info@wedding-fields.com).
 
 ### Children at the event
 Don't worry, you won't be alone bringing a child to our wedding. There will be a lot of kids!
