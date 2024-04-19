@@ -22,12 +22,21 @@ Our whole wedding day will take place in the heart of Prague in [Villa Richter](
   
 If you plan to organize something at our wedding, please reach out to [Katerina Fields](mailto:info@wedding-fields.com).
 
+### Dresscode
+We would like everyone to feel comfortable and good so dress according to your preferences and taste. In particular, there is no color scheme that we would like you to follow. You are welcome, but not required, to dress formally. 
+
+When choosing your outfit, please do realize the following:
+- Prague, and also Villa Richter, are hilly places with small cobblestones.  So we advice to adjust your footwear accordingly.
+- August is normally a very warm month in Czech Republic.
+
 ### Children at the event
 Don't worry, you won't be alone bringing a child to our wedding. There will be a lot of kids!
 
 There will be a playroom with babysitters at the wedding. The babysitters are prepared to take care of and entertain kids older than 2. As a general rule, kids under 2 need to be looked after by an adult even in the playroom. That said, there will be one babysitter prepared to assist parents of babies for shorter periods of time.
 
 In addition to the playroom, there will be a separate sleeping and nursing room available. If you want to have a baby bed prepared for your child, please reach out to us.
+
+Kids will have a special menu. It will be served at the dining tables at the point when adults obtain their first course. Once the little ones are done with their portions, they are welcome to go and play or stay at the table as they wish.  
 
 ### Gifts
 There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
@@ -98,10 +107,7 @@ There are various P+R options that are for free or rather cheap (~50 CZK/24 hour
 - Coming via D8 (north): [P+R Ladvi](https://en.parkopedia.com/parking/carpark/pr_l%C3%A1dv%C3%AD/182/praha/?country=cz&arriving=202405021430&leaving=202405021630)
 
 
-### Dresscode
-Details to follow.  However, please do realize the following:
-- Prague, and also Villa Richter, are hilly places with small cobblestones.  So we advice to adjust your footwear accordingly.
-- August is normally a very warm month in Czech Republic.
+
 
 ### Food options
 We will reach out by email to collect dietary restrictions and preferences.
