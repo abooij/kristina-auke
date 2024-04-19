@@ -5,11 +5,11 @@
 layout: ka_main
 ---
 
-Wecome! Our wedding website is still under construction and was last updated on **{% last_modified_at %d %B %Y %}**. Our goal is to share imporant information about our wedding and hopefully answer questions that many of you might have so please come back in a few weeks.
+Wecome! Our wedding website was last updated on **{% last_modified_at %d %B %Y %}**. Our goal is to share imporant information about our wedding and hopefully answer questions that many of you might have.
 
 
 ### Venue
-Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
+Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/). 
 
 ### Program
 - 13:15 Guessts arriving to Villa's vineyards
@@ -108,9 +108,6 @@ There are various P+R options that are for free or rather cheap (~50 CZK/24 hour
 
 
 
-
-### Food options
-We will reach out by email to collect dietary restrictions and preferences.
 
 <!---
 ### Arrival
