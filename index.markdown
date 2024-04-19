@@ -11,6 +11,15 @@ Wecome! Our wedding website is still under construction and was last updated on 
 ### Venue
 Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
+### Program
+13:15 Guessts arriving to Villa's vineyards
+14:00 Cenremony 
+14:30 Cocktail hour
+16:00 Served Wedding menu
+18:00 Cake cutting and Sweet bar
+18:30 Live music
+21:30 Evening buffet and afterparty
+
 ### Accommodation
 There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete suggestions (except for hotel Hoffmeister, we havn't seen any of the hotels in person):
 
@@ -79,8 +88,7 @@ There are various P+R options that are for free or rather cheap (~50 CZK/24 hour
 ### Children at the event
 There will be a room for naps and breastfeeding in the villa. More details to follow.
 
-### Program
-The program will likely last from early afternoon until late in the evening.
+
 
 ### Gifts
 There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
