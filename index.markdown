@@ -13,7 +13,7 @@ Our whole wedding day will take place in the heart of Prague in [Villa Richter](
 
 ### Program
 - 13:15 Guessts arriving to Villa's vineyards
-- 14:00 Cenremony 
+- 14:00 Ceremony 
 - 14:30 Cocktail hour
 - 16:00 Served Wedding menu
 - 18:00 Cake cutting and Sweet bar
