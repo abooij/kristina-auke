@@ -41,6 +41,46 @@ Kids will have a special menu. It will be served at the dining tables at the poi
 ### Gifts
 There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
 
+### Travel tips
+
+
+##### Fly
+Fly to [Václav Havel Airport Prague](https://www.europeansleeper.eu/).  Getting to the city requires taking a bus **and** a metro.
+
+##### Train
+From the Netherlands: [European Sleeper](https://www.europeansleeper.eu/) starts night train services from Rotterdam and Amsterdam to Prague on 25 March 2024.
+
+##### Boat
+Enter the Elbe, head upstream, turn right onto the Vltava. Your destination is on the right.
+
+##### Car
+On highway D5/E50, the cheapest fuel is at AS 24 on exit 128.
+
+##### Cycling
+Wear a helmet.
+
+### Arrival
+Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams). Note that the metro station is underground and there is no elevator, only long escalators. If you need barrier free access, we recommend taking a tram or getting out at a different station. You can check barrier free stations on [Prague Public Transport website](https://www.dpp.cz/en/travelling/barrier-free-travelling/metro).
+
+
+There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
+
+##### Parking near Villa Richter
+- If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are.
+- Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
+	- 10 minute walk to Villa
+	- 70 CZK/hour, 660 CZK/24 hours
+- Underground parking [Letna](https://en.parkopedia.com/parking/carpark/letn%C3%A1/170/praha/?country=cz&arriving=202311161430&leaving=202311161630)
+	- 25 min walk, 3 stop by tram
+	- 40 CZK/hour, 400 CZK/24 hours
+
+##### Free/cheap parking in Prague
+There are various P+R options that are for free or rather cheap (~50 CZK/24 hours)
+- Coming via D11 (east): [P+R Cerny Most](https://en.parkopedia.com/parking/carpark/pr_%C4%8Dern%C3%BD_most_1/198/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Rajska Zahrada](https://en.parkopedia.com/parking/carpark/pr_rajsk%C3%A1_zahrada/198/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D1 (south east): [P+R Opatov](https://en.parkopedia.com/parking/carpark/pr_opatov/149/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Chodov](https://en.parkopedia.com/parking/carpark/pr_chodov/14900/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D5 (south west): [P+R Nove Butovice](https://en.parkopedia.com/parking/carpark/pr_nov%C3%A9_butovice/15800/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D8 (north): [P+R Ladvi](https://en.parkopedia.com/parking/carpark/pr_l%C3%A1dv%C3%AD/182/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+
 ### Accommodation
 There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete suggestions (except for hotel Hoffmeister, we havn't seen any of the hotels in person):
 
@@ -66,45 +106,6 @@ There is unfortunately no accommodation at Villa Richter. We recommend looking f
 	- A bed in a dormitory from 35 EUR, private rooms from 	115 EUR
 	- Very central, acquaintance of us stayed there and liked it a lot
 
-
-### Travel tips
-
-
-##### Fly
-Fly to [Václav Havel Airport Prague](https://www.europeansleeper.eu/).  Getting to the city requires taking a bus **and** a metro.
-
-##### Train
-From the Netherlands: [European Sleeper](https://www.europeansleeper.eu/) starts night train services from Rotterdam and Amsterdam to Prague on 25 March 2024.
-
-##### Boat
-Enter the Elbe, head upstream, turn right onto the Vltava. Your destination is on the right.
-
-##### Car
-On highway D5/E50, the cheapest fuel is at AS 24 on exit 128.
-
-##### Cycling
-Wear a helmet.
-
-### Arrival
-Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams).
-
-There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
-
-##### Parking near Villa Richter
-- If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are.
-- Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
-	- 10 minute walk to Villa
-	- 70 CZK/hour, 660 CZK/24 hours
-- Underground parking [Letna](https://en.parkopedia.com/parking/carpark/letn%C3%A1/170/praha/?country=cz&arriving=202311161430&leaving=202311161630)
-	- 25 min walk, 3 stop by tram
-	- 40 CZK/hour, 400 CZK/24 hours
-
-##### Free/cheap parking in Prague
-There are various P+R options that are for free or rather cheap (~50 CZK/24 hours)
-- Coming via D11 (east): [P+R Cerny Most](https://en.parkopedia.com/parking/carpark/pr_%C4%8Dern%C3%BD_most_1/198/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Rajska Zahrada](https://en.parkopedia.com/parking/carpark/pr_rajsk%C3%A1_zahrada/198/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D1 (south east): [P+R Opatov](https://en.parkopedia.com/parking/carpark/pr_opatov/149/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Chodov](https://en.parkopedia.com/parking/carpark/pr_chodov/14900/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D5 (south west): [P+R Nove Butovice](https://en.parkopedia.com/parking/carpark/pr_nov%C3%A9_butovice/15800/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D8 (north): [P+R Ladvi](https://en.parkopedia.com/parking/carpark/pr_l%C3%A1dv%C3%AD/182/praha/?country=cz&arriving=202405021430&leaving=202405021630)
 
 
 
