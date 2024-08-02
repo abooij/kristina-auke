@@ -38,6 +38,8 @@ There is unfortunately no parking lot at Villa Richter. If you need to come by c
 
 The entrance to Villa Richter is easily missed by the stream of tourists walking by every day.
 
+![Villa Richter entrance map](/assets/map.jpg)
+
 There are two main ways to enter the area of Villa Richter. <!-- (check the map in the attachment while reading the instructions below).-->
 
 ##### Gate entrance - via Staré zámecké schody (shortest, stairs)
