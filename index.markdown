@@ -40,11 +40,11 @@ The entrance to Villa Richter is easily missed by the stream of tourists walking
 
 There are two main ways to enter the area of Villa Richter. <!-- (check the map in the attachment while reading the instructions below).-->
 
-##### Via Staré zámecké schody (shortest, stairs)
+##### Gate entrance - via Staré zámecké schody (shortest, stairs)
 Starting at the tram/metro stop Malonstranská, walk north for ~200m (ideally through park Holubička). Then enter the street Staré zámecké schody on your left (following signs to Prague Castle). Enter the Staré zámecké schody staircase. After ~50m, there is a small gate in the wall on your right. There will be a person/sing welcoming you to our wedding. By this you enter the area of Villa. In the area, you have to walk some stairs up to the Villa itself. You can use the restroom, leave luggage etc in the Villa, and then continue up to the vineyard where the ceremony takes place and our wedding day starts. There will be people and signs making sure you find the way from Villa to the vineyard. The whole walk Malostranská -> Vineyard is about 500m, but includes quite a few stairs!
 
 
-##### Via Na Opyši (barrier free, but with cubble stores and, uphill)
+##### Kiosk entrance - via Na Opyši (barrier free, but with cubble stores and, uphill)
 Starting at the tram/metro stop Malonstranská, walk north for ~250m (ideally through park Holubička). Then enter the street Na Opyši on your left. Follow this street for ~300m uphill. On the junction of the streets Na Opyši, Jiřská and Staré zámecké schody, enter the gate to the kiosk Richter’s Street Food Market. Walk through the kiosk to a small metal gate. There will be a person/sign welcoming you to our wedding. You are essentially at the Vineyard where the ceremony takes place. The whole walk Malostranská -> Vineyard is about 600m, there are no stairs.
 
 
