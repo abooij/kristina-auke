@@ -32,3 +32,7 @@ a:hover, a:active
     border-radius: 1em;
     display:block;
 }
+img
+{
+    width: 60%;
+}
