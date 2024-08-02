@@ -9,25 +9,62 @@ Wecome! Our wedding website was last updated on **{% last_modified_at %d %B %Y %
 
 
 ### Venue
-Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/). 
+Our whole wedding day will take place in the heart of Prague in [Villa Richter](https://www.villarichter.cz/en/).
 
 ### Program
-- 13:15 Guessts arriving to Villa's vineyards
-- 14:00 Ceremony 
+- 13:15 Guests arriving to Villa's vineyards
+- 14:00 Ceremony
 - 14:30 Cocktail hour
 - 16:00 Served Wedding menu
 - 18:00 Cake cutting and Sweet bar
 - 18:30 Live music
 - 21:30 Evening buffet and afterparty
-  
+
 If you plan to organize something at our wedding, please reach out to [Katerina Fields](mailto:info@wedding-fields.com).
 
 ### Dresscode
-We would like everyone to feel comfortable and good so dress according to your preferences and taste. In particular, there is no color scheme that we would like you to follow. You are welcome, but not required, to dress formally. 
+We would like everyone to feel comfortable and good so dress according to your preferences and taste. In particular, there is no color scheme that we would like you to follow. You are welcome, but not required, to dress formally.
 
 When choosing your outfit, please do realize the following:
 - Prague, and also Villa Richter, are hilly places with small cobblestones.  So we advice to adjust your footwear accordingly.
 - August is normally a very warm month in Czech Republic.
+
+### Arrival
+Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams). Note that the metro station is underground and there is no elevator, only long escalators. If you need barrier free access, we recommend taking a tram or getting out at a different station. You can check barrier free stations on [Prague Public Transport website](https://www.dpp.cz/en/travelling/barrier-free-travelling/metro).
+
+There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
+
+### Finding the entrance
+
+The entrance to Villa Richter is easily missed by the stream of tourists walking by every day.
+
+There are two main ways to enter the area of Villa Richter. <!-- (check the map in the attachment while reading the instructions below).-->
+
+##### Via Staré zámecké schody (shortest, stairs)
+Starting at the tram/metro stop Malonstranská, walk north for ~200m (ideally through park Holubička). Then enter the street Staré zámecké schody on your left (following signs to Prague Castle). Enter the Staré zámecké schody staircase. After ~50m, there is a small gate in the wall on your right. There will be a person/sing welcoming you to our wedding. By this you enter the area of Villa. In the area, you have to walk some stairs up to the Villa itself. You can use the restroom, leave luggage etc in the Villa, and then continue up to the vineyard where the ceremony takes place and our wedding day starts. There will be people and signs making sure you find the way from Villa to the vineyard. The whole walk Malostranská -> Vineyard is about 500m, but includes quite a few stairs!
+
+
+##### Via Na Opyši (barrier free, but with cubble stores and, uphill)
+Starting at the tram/metro stop Malonstranská, walk north for ~250m (ideally through park Holubička). Then enter the street Na Opyši on your left. Follow this street for ~300m uphill. On the junction of the streets Na Opyši, Jiřská and Staré zámecké schody, enter the gate to the kiosk Richter’s Street Food Market. Walk through the kiosk to a small metal gate. There will be a person/sign welcoming you to our wedding. You are essentially at the Vineyard where the ceremony takes place. The whole walk Malostranská -> Vineyard is about 600m, there are no stairs.
+
+
+### Parking near Villa Richter
+
+If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are.
+
+- Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
+	- 10 minute walk to Villa
+	- 70 CZK/hour, 660 CZK/24 hours
+- Underground parking [Letna](https://en.parkopedia.com/parking/carpark/letn%C3%A1/170/praha/?country=cz&arriving=202311161430&leaving=202311161630)
+	- 25 min walk, 3 stop by tram
+	- 40 CZK/hour, 400 CZK/24 hours
+
+##### Free/cheap parking in Prague
+There are various P+R options that are for free or rather cheap (~50 CZK/24 hours)
+- Coming via D11 (east): [P+R Cerny Most](https://en.parkopedia.com/parking/carpark/pr_%C4%8Dern%C3%BD_most_1/198/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Rajska Zahrada](https://en.parkopedia.com/parking/carpark/pr_rajsk%C3%A1_zahrada/198/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D1 (south east): [P+R Opatov](https://en.parkopedia.com/parking/carpark/pr_opatov/149/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Chodov](https://en.parkopedia.com/parking/carpark/pr_chodov/14900/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D5 (south west): [P+R Nove Butovice](https://en.parkopedia.com/parking/carpark/pr_nov%C3%A9_butovice/15800/praha/?country=cz&arriving=202405021430&leaving=202405021630)
+- Coming via D8 (north): [P+R Ladvi](https://en.parkopedia.com/parking/carpark/pr_l%C3%A1dv%C3%AD/182/praha/?country=cz&arriving=202405021430&leaving=202405021630)
 
 ### Children at the event
 Don't worry, you won't be alone bringing a child to our wedding. There will be a lot of kids!
@@ -36,7 +73,7 @@ There will be a playroom with babysitters at the wedding. The babysitters are pr
 
 In addition to the playroom, there will be a separate sleeping and nursing room available. If you want to have a baby bed prepared for your child, please reach out to us.
 
-Kids will have a special menu. It will be served at the dining tables at the point when adults obtain their first course. Once the little ones are done with their portions, they are welcome to go and play or stay at the table as they wish.  
+Kids will have a special menu. It will be served at the dining tables at the point when adults obtain their first course. Once the little ones are done with their portions, they are welcome to go and play or stay at the table as they wish.
 
 ### Gifts
 There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
@@ -58,28 +95,6 @@ On highway D5/E50, the cheapest fuel is at AS 24 on exit 128.
 
 ##### Cycling
 Wear a helmet.
-
-### Arrival
-Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams). Note that the metro station is underground and there is no elevator, only long escalators. If you need barrier free access, we recommend taking a tram or getting out at a different station. You can check barrier free stations on [Prague Public Transport website](https://www.dpp.cz/en/travelling/barrier-free-travelling/metro).
-
-
-There is unfortunately no parking lot at Villa Richter. If you need to come by car all the way to Villa to drop off someone or something, please contact us in advance. You can check available parking lots, including opening times and prices, on the [Parkopedia website](https://en.parkopedia.com/). Here are some concrete suggestions.
-
-##### Parking near Villa Richter
-- If you are staying in Hotel Hoffmeister, contact the hotel as soon as possible to book a parking spot. If you are staying at a different hotel, ask whether they have a private parking or what the public parking options are.
-- Underground parking [Rudolfinum](https://en.parkopedia.com/parking/carpark/gar%C3%A1%C5%BEe_rudolfinum/110/praha/?country=cz&arriving=202311161430&leaving=202311161630)
-	- 10 minute walk to Villa
-	- 70 CZK/hour, 660 CZK/24 hours
-- Underground parking [Letna](https://en.parkopedia.com/parking/carpark/letn%C3%A1/170/praha/?country=cz&arriving=202311161430&leaving=202311161630)
-	- 25 min walk, 3 stop by tram
-	- 40 CZK/hour, 400 CZK/24 hours
-
-##### Free/cheap parking in Prague
-There are various P+R options that are for free or rather cheap (~50 CZK/24 hours)
-- Coming via D11 (east): [P+R Cerny Most](https://en.parkopedia.com/parking/carpark/pr_%C4%8Dern%C3%BD_most_1/198/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Rajska Zahrada](https://en.parkopedia.com/parking/carpark/pr_rajsk%C3%A1_zahrada/198/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D1 (south east): [P+R Opatov](https://en.parkopedia.com/parking/carpark/pr_opatov/149/praha/?country=cz&arriving=202405021430&leaving=202405021630) or [P+R Chodov](https://en.parkopedia.com/parking/carpark/pr_chodov/14900/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D5 (south west): [P+R Nove Butovice](https://en.parkopedia.com/parking/carpark/pr_nov%C3%A9_butovice/15800/praha/?country=cz&arriving=202405021430&leaving=202405021630)
-- Coming via D8 (north): [P+R Ladvi](https://en.parkopedia.com/parking/carpark/pr_l%C3%A1dv%C3%AD/182/praha/?country=cz&arriving=202405021430&leaving=202405021630)
 
 ### Accommodation
 There is unfortunately no accommodation at Villa Richter. We recommend looking for options either in the direct neighborhood or areas easily reachable from metro stop Malostranská, which is on the A metro line (google maps know the Prague public transport well). Here are some concrete suggestions (except for hotel Hoffmeister, we havn't seen any of the hotels in person):
