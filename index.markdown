@@ -30,7 +30,7 @@ When choosing your outfit, please do realize the following:
 - August is normally a very warm month in Czech Republic.
 
 ### Gifts
-There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.  If you want to give anything that would raise eyebrows at airport security, please contact us.
+There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.  If you want to give anything that would raise eyebrows at airport security, don't hesitate to contact us.
 
 ### Arrival
 Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams). Note that the metro station is underground and there is no elevator, only long escalators. If you need barrier free access, we recommend taking a tram or getting out at a different station. You can check barrier free stations on [Prague Public Transport website](https://www.dpp.cz/en/travelling/barrier-free-travelling/metro).
