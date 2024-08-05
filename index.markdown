@@ -29,6 +29,9 @@ When choosing your outfit, please do realize the following:
 - Prague, and also Villa Richter, are hilly places with small cobblestones.  So we advice to adjust your footwear accordingly.
 - August is normally a very warm month in Czech Republic.
 
+### Gifts
+There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.  If you want to give anything that would raise eyebrows at airport security, please contact us.
+
 ### Arrival
 Villa Richter is 250m from the public transport hub Malostranská (stop of metro A and many trams). Note that the metro station is underground and there is no elevator, only long escalators. If you need barrier free access, we recommend taking a tram or getting out at a different station. You can check barrier free stations on [Prague Public Transport website](https://www.dpp.cz/en/travelling/barrier-free-travelling/metro).
 
@@ -76,9 +79,6 @@ There will be a playroom with babysitters at the wedding. The babysitters are pr
 In addition to the playroom, there will be a separate sleeping and nursing room available. If you want to have a baby bed prepared for your child, please reach out to us.
 
 Kids will have a special menu. It will be served at the dining tables at the point when adults obtain their first course. Once the little ones are done with their portions, they are welcome to go and play or stay at the table as they wish.
-
-### Gifts
-There is no expectation to bring a gift.  If you want, you can contribute to the cost of the wedding using the donation box.
 
 ### Travel tips
 
