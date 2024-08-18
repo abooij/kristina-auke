@@ -10,3 +10,5 @@ layout: ka_main
 Well done! You've found the secret page.
 
 If you're reading this, obviously we didn't have time to figure out what to put here 😬
+
+Anyway thanks a lot for coming to our wedding!!
